@@ -5,7 +5,11 @@ This is an effort to create connect the dots game in web and mobile.
 
 ##Installation
 
-- Installation instructions will appear as soon as we begin the development.
+In order to start the server:
+```
+$ npm install
+$ npm start
+```
 
 ## Contribution
 - Fork the repository.
